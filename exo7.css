@@ -1,0 +1,59 @@
+body{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.cercle1{
+   
+    background: #795ec4;
+    border-radius: 75%;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cercle2{
+    background: #9a63b9;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cercle3{
+    background: #5f2496;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.cercle4{
+    background:white;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.container{
+    width: 450px;
+    height: 450px;
+    background-color: #5406ad;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    /* pour aligné les cercles dans le carré noire */
+    
+
+}

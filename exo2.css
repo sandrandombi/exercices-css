@@ -1,0 +1,47 @@
+p {
+    color: blue;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: capitalize;
+}
+
+.maclasse {
+    background-color: green;
+    padding: 10px;
+    /* marge intérieur padding */
+}
+
+#monid {
+    border: 5px solid black;
+    margin: 6px;
+    padding: 6px;
+}
+
+section {
+    color: green;
+    margin: 100px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+    /* font-size:aille de la police */
+h1 {
+    font-size: 2,5em;
+    text-transform: lowercase;
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    font-size: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: red;
+    border-left: black solid 50px;
+}
+
+#superid {
+    background-color: red;
+}
